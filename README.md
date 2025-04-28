@@ -51,4 +51,8 @@ Panduan langkah demi langkah untuk menggunakan kode ini:
 
 ---
 
-Selamat menggunakan!
+## Copyright
+&copy; [yubaytech.com](https://yubaytech.com)
+
+Dibuat oleh **Ghosterx Yubay Team**  
+Official Website: [yubaytech.com](https://yubaytech.com)
